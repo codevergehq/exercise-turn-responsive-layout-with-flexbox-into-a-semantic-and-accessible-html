@@ -21,10 +21,10 @@ Remember: Always start with the mobile screen first! First build it for mobile, 
 
 Below you can find Break Points we want you to implement.
 
-small: `@media (min-width: 640px)`
-medium: `@media (min-width: 768px)`
-large: `@media (min-width: 1024px)` 
-extraLarge: `@media (min-width: 1280px)`
+- small: `@media (min-width: 640px)`
+- medium: `@media (min-width: 768px)`
+- large: `@media (min-width: 1024px)` 
+- extraLarge: `@media (min-width: 1280px)`
 
 You don't have to use every single Break Point in every single Design, use what does make sense. 
 
