@@ -1,0 +1,37 @@
+:root {
+    --sm-break-point: 640px;
+    --md-break-point: 768px;
+    --lg-break-point: 1024px;
+    --xl-break-point: 1280px;
+}
+
+/* Your CSS Goes Here 👇 */
+
+/* Stylistic Purposes only, not part of the Exercise */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+a {
+    color: #6c63ff;
+    font-size: 18px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:hover {
+    color: #ff57b2;
+}
+
+a:active {
+    color: #000000;
+}
+
+a:visited {
+    color: #a977ff;
+}
+
+a:focus {
+    outline: 2px dashed #FF0000;
+}
