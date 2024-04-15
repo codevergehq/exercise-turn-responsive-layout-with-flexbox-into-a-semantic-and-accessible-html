@@ -1,7 +1,7 @@
-# Exercise: Build Responsive Layouts with CSS Flexbox
+# Exercise: Turn Flexbox Common Patterns into a Semantic & Accessible HTML Page
 
 ## Introduction
-We have learned advanced techniques in CSS that allows us to build responsive layouts using Media Queries, Break Points, and Flexbox. Your goal in this exercise is to strengthen your recently applied knowledge and put it to the test.
+You have previously learned advanced techniques in CSS that enabled you to build responsive layouts using Media Queries, Break Points, and Flexbox. Now, your goal is to build upon this knowledge and use it towards creating a semantic HTML structure.
 
 ## Getting Started
 Follow the instructions below to get started:
@@ -13,20 +13,13 @@ Follow the instructions below to get started:
 5. Follow instructions 
 
 ## Instructions
-You are instructed to create 5 commonly used responsive layouts from websites which we'll provide you as simple sketches. 
+Your task is to take the solution from the previous exercise and update it with Semantic HTML. Your objective is to make the structures of the web pages more meaningful and accessible.
 
-We'll provide you the starter code that lays down the basic structure for the different layouts. It is your job to use Media Queries, Break Points, and CSS Flexbox to bring responsiveness into the Websites.
+Make sure to fork the Repository above, and do not change/update your existing submission from the previous exercise.
 
-Remember: Always start with the mobile screen first! First build it for mobile, then expand your design and add complexity as you go.
+You can then copy your previous solution and update the starter code.
 
-Below you can find Break Points we want you to implement.
-
-- small: `@media (min-width: 640px)`
-- medium: `@media (min-width: 768px)`
-- large: `@media (min-width: 1024px)` 
-- extraLarge: `@media (min-width: 1280px)`
-
-You don't have to use every single Break Point in every single Design, use what does make sense. 
+Finally, update the existing HTML with Semantic HTML.
 
 ## Submission
 
